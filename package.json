@@ -1,7 +1,7 @@
 {
-  "name": "React_hoc",
+  "name": "react-redux-boilerplate",
   "version": "1.0.0",
-  "description": "Higher Order Component",
+  "description": "React Redux Boilerplate",
   "scripts": {
     "prestart": "babel-node tools/startMessage.js",
     "start": "babel-node tools/server.js"
